@@ -1,4 +1,3 @@
-
 connection: "bigquery_public_data_looker"
 
 # include all the views
